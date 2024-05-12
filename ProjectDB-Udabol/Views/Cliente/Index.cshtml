@@ -1,0 +1,69 @@
+﻿@model IEnumerable<ProjectDB_Udabol.Models.CLIENTES>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create","", new {@class="btn btn-success"})
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id_Cliente)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cedula)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido_Paterno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Apellido_Materno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Correo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th>Acciones</th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id_Cliente)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Cedula)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellido_Paterno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Apellido_Materno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Correo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Direccion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id_Cliente}, new {@class="btn btn-warning"}) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.Id_Cliente}, new { @class = "btn btn-primary" }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.Id_Cliente }, new { @class = "btn btn-danger" })
+        </td>
+    </tr>
+}
+
+</table>
