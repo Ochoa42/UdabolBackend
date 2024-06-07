@@ -1,0 +1,15 @@
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\bin\Debug\net8.0\ProjectUdabol.DOMAIN.deps.json
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\bin\Debug\net8.0\ProjectUdabol.DOMAIN.runtimeconfig.json
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\bin\Debug\net8.0\ProjectUdabol.DOMAIN.dll
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\bin\Debug\net8.0\ProjectUdabol.DOMAIN.pdb
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.csproj.AssemblyReference.cache
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.AssemblyInfoInputs.cache
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.AssemblyInfo.cs
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.sourcelink.json
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.dll
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\refint\ProjectUdabol.DOMAIN.dll
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.pdb
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ProjectUdabol.DOMAIN.genruntimeconfig.cache
+D:\Udabol\I-2024\DATABASE II\PROYECTO\PROYECTO-WEBDB\Project-Udabol\API\ProjectUdabol.DOMAIN\obj\Debug\net8.0\ref\ProjectUdabol.DOMAIN.dll
